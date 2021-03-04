@@ -1,0 +1,57 @@
+{
+  "name": "daas-frontend",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@apollo/client": "^3.0.0-beta.36",
+    "@apollo/link-ws": "^2.0.0-beta.3",
+    "@aws-sdk/eventstream-marshaller": "^3.6.1",
+    "@babel/preset-react": "^7.12.10",
+    "@material-ui/core": "^4.11.2",
+    "@material-ui/icons": "^4.11.2",
+    "@material-ui/lab": "^4.0.0-alpha.57",
+    "@material-ui/styles": "^4.11.2",
+    "@testing-library/jest-dom": "^4.2.4",
+    "@testing-library/react": "^9.4.0",
+    "@testing-library/user-event": "^7.2.1",
+    "apollo-link-context": "^1.0.19",
+    "bcryptjs": "^2.4.3",
+    "d3-cloud": "^1.2.5",
+    "graphql": "^14.6.0",
+    "i18next": "^19.9.0",
+    "prop-types": "^15.7.2",
+    "randomcolor": "^0.6.2",
+    "react": "^16.12.0",
+    "react-bootstrap": "^1.4.3",
+    "react-dom": "^16.12.0",
+    "react-i18next": "^11.8.8",
+    "react-measure": "^2.5.2",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "3.4.0",
+    "react-tag-cloud": "^1.3.2",
+    "react-tagcloud": "^2.0.0",
+    "shuffle-array": "^1.0.1",
+    "subscriptions-transport-ws": "^0.9.16"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
