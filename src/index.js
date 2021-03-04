@@ -49,7 +49,6 @@ const authLink = setContext((_, { headers }) => {
   }
 })
 
-/*
 const httpLink = new HttpLink({
   uri: 'http://localhost:4000',
 })
@@ -61,9 +60,7 @@ const wsLink = new WebSocketLink({
     reconnect: true
   }
 })
-*/ 
-
- 
+ /*
 const httpLink = new HttpLink({
   uri: 'https://daasback.herokuapp.com',
 })
@@ -75,7 +72,7 @@ const wsLink = new WebSocketLink({
     reconnect: true
   }
 })
-
+*/
 const splitLink = split(
   ({ query }) => {
     const definition = getMainDefinition(query)
