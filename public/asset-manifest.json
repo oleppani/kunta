@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5425005d.chunk.css",
+    "main.js": "/static/js/main.1720c533.chunk.js",
+    "main.js.map": "/static/js/main.1720c533.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.86010d0d.js",
+    "runtime-main.js.map": "/static/js/runtime-main.86010d0d.js.map",
+    "static/js/2.885ee139.chunk.js": "/static/js/2.885ee139.chunk.js",
+    "static/js/2.885ee139.chunk.js.map": "/static/js/2.885ee139.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.85268408fa05a803d8713fbd35801afb.js": "/precache-manifest.85268408fa05a803d8713fbd35801afb.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.5425005d.chunk.css.map": "/static/css/main.5425005d.chunk.css.map",
+    "static/js/2.885ee139.chunk.js.LICENSE.txt": "/static/js/2.885ee139.chunk.js.LICENSE.txt",
+    "static/media/taustapieni_mv.png": "/static/media/taustapieni_mv.3a2c7daa.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.86010d0d.js",
+    "static/js/2.885ee139.chunk.js",
+    "static/css/main.5425005d.chunk.css",
+    "static/js/main.1720c533.chunk.js"
+  ]
+}
